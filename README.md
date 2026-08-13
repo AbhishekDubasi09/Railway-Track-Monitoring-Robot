@@ -55,3 +55,7 @@ This project proposes an **autonomous robot** capable of:
 
 ---
 
+
+## License
+
+Licensed under the [MIT License](LICENSE).
